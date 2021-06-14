@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliGul5
+- 👋 Hi, I’m Ali Gul
 - 👀 I’m interested in Mobile Game Development
 - 🌱 I’m currently learning Turkey
 - 📫 How to reach me Aligul.rm@gmail.com
